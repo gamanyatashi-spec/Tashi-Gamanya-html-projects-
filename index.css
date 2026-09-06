@@ -18,6 +18,8 @@ footer{
     margin:0%;
     background-color: #73787c;
     border-radius: 10px;
+    font-size: 1rem;
+    color:white;
     
 
 }
@@ -44,10 +46,7 @@ h2{
     font-size: 2rem;
 }
 
-footer{
-    font-size: 1rem;
-    color:white;
-}
+
 section {
     margin-left: 300px;
 }
